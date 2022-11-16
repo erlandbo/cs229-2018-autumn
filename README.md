@@ -1,3 +1,5 @@
-# cs229-2018
-CS229 Fall 2018
-# cs229-2018-autumn
+# CS229 Fall 2018 Stanford University
+
+My solutions to the problems set at CS229 autumn 2018 Stanford University.
+
+Note I did not attend the course at Stanford University.
